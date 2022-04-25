@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "magento-hackathon/magento-composer-installer": "^3.0"
+        "magento-hackathon/magento-composer-installer": "^3.0 | ^4.0"
     },
     "require-dev": {
         "ecomdev/ecomdev_phpunit": "^0.3.7",
